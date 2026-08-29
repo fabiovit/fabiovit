@@ -24,6 +24,15 @@ I build dashboards, integrations and tools for **Home Assistant**, with a focus 
 
 A modern and customizable dashboard for **Home Assistant**, designed to provide a clean and intuitive overview of your smart home.
 
+### 💸 [Fabio’s](https://github.com/fabiovit/fabios)
+
+[![Release](https://img.shields.io/github/v/release/fabiovit/fabios?label=release)](https://github.com/fabiovit/fabios/releases/latest)
+[![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5)](https://github.com/fabiovit/fabios)
+[![Validate](https://github.com/fabiovit/fabios/actions/workflows/validate.yml/badge.svg)](https://github.com/fabiovit/fabios/actions/workflows/validate.yml)
+[![Hassfest](https://github.com/fabiovit/fabios/actions/workflows/hassfest.yml/badge.svg)](https://github.com/fabiovit/fabios/actions/workflows/hassfest.yml)
+
+A shared expense manager built directly for **Home Assistant**, with a full dashboard, mobile-friendly **Fabio’s Lite**, recurring expenses, installment tracking, automatic balances and a standalone WebApp.
+
 ### ⚡ [DAZE Dashboard](https://github.com/fabiovit/daze-dashboard)
 
 A Home Assistant dashboard focused on **EV charging**, power management and DAZE wallbox monitoring.
